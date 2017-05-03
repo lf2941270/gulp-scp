@@ -35,7 +35,7 @@
     "gulp-util": "^2.2.0",
     "object-assign": "^0.2.1",
     "through2": "^0.4.0",
-    "scp": "^0.0.3"
+    "scp": "lf2941270/node-scp"
   },
   "readmeFilename": "readme.md",
   "bugs": {
